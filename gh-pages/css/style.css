@@ -1,0 +1,23 @@
+.iphone-image {
+	height: 300px;
+	width: auto;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	margin-right: 30px;
+	margin-left: 30px;
+}
+
+.iphone-card {
+	width: 400px;
+	height: auto;
+}
+
+.iphone-card1 {
+	width: 500px;
+	height: auto;
+}
+
+.iphone-card2 {
+	width: 600px;
+	height: auto;
+}
